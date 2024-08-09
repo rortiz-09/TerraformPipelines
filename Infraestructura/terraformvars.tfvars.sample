@@ -1,0 +1,6 @@
+sql_admin_username = ""
+sql_admin_password = "passw0rd_123:$ql"
+sql_datebase_name = ""
+sql_firewall_rule = "AllowThemAll"
+sql_firewall_rule_start_ip = "0.0.0.0"
+sql_firewall_rule_end_ip = "255.255.255.255"
